@@ -66,3 +66,5 @@ Built a fully interactive Power BI dashboard that enables educational institutio
 ## Author
 
 Harishma Parveen
+
+Aspiring Data Analyst | Data Science Enthusiast
