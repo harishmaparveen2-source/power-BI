@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/527b67a8-aff9-4321-8e48-07b2e168ef62
+
 # Student Details Power BI Dashboard
 
 ## Overview
@@ -31,6 +35,14 @@ The dataset contains:
 * Course Completion Status
 * Age Group Information
 * Join Date Details
+
+## 📊 Dashboard Preview
+
+![Student Details Dashboard](images/student-dashboard.png)
+
+## 🎥 Dashboard Demo
+
+[▶ Watch Demo Video](https://github.com/user-attachments/assets/527b67a8-aff9-4321-8e48-07b2e168ef62)
 
 ## Dashboard Features
 
