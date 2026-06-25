@@ -38,7 +38,7 @@ The dataset contains:
 
 ## 🎥 Dashboard Demo
 
-[▶ Watch Demo Video](https://github.com/user-attachments/assets/527b67a8-aff9-4321-8e48-07b2e168ef62)
+[▶ Watch Demo Video](https://github.com/user-attachments/assets/7b818a99-d17e-4bf8-9b21-96c4b363568d)
 
 ## Dashboard Features
 
