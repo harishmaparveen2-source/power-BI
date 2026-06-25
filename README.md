@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/527b67a8-aff9-4321-8e48-07b2e168ef62
-
 # Student Details Power BI Dashboard
 
 ## Overview
@@ -38,7 +34,7 @@ The dataset contains:
 
 ## 📊 Dashboard Preview
 
-![Student Details Dashboard](images/student-dashboard.png)
+![Student Details Dashboard](https://github.com/harishmaparveen2-source/power-BI/blob/e3937e5b6d5a48a3c5d3c18b4424e4d39826dca6/POWER%20BI%20REPORT%20VIEW.png)
 
 ## 🎥 Dashboard Demo
 
