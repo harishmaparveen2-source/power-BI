@@ -1,5 +1,4 @@
 # Student Details Power BI Dashboard
-## 🛠️ Built With
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-FFB000?style=for-the-badge&logo=microsoft&logoColor=white)
