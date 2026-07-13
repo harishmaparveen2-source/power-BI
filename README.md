@@ -82,3 +82,5 @@ Built a fully interactive Power BI dashboard that enables educational institutio
 Harishma Parveen
 
 Aspiring Data Analyst | Data Science Enthusiast
+
+**⭐ If you found this project helpful, don't forget to give it a Star!**
